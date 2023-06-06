@@ -1,5 +1,0 @@
-Name: Prarthana M Rao
-USN : 1NT20IS115
-Batch: B2
-
-https://github.com/Prarthana-M-Rao/NP_LAB.git
